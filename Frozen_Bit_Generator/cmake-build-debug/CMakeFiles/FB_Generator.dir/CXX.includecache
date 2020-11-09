@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Polar_decoder_HLS/Polar_Code_Generator/Frozen_Bit_Generator/main.cpp
+iostream
+-
+string
+-
+fstream
+-
+sstream
+-
+iomanip
+-
+src/Writer.h
+C:/Polar_decoder_HLS/Polar_Code_Generator/Frozen_Bit_Generator/src/Writer.h
+
+C:/Polar_decoder_HLS/Polar_Code_Generator/Frozen_Bit_Generator/src/Writer.h
+iostream
+-
+fstream
+-
+sstream
+-
+iomanip
+-
+string
+-
+math.h
+C:/Polar_decoder_HLS/Polar_Code_Generator/Frozen_Bit_Generator/src/math.h
+
